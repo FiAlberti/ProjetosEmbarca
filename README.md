@@ -1,2 +1,4 @@
 # ProjetosEmbarca
-Testes do curso Embarcatech
+Projeto Final
+
+Gerador de vocalises portátil.
